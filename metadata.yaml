@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39923#The-Lucky-Seventh
 gutenberg_issued: '2012-06-05'
 gutenberg_type: Text
 identifiers:
