@@ -1,0 +1,40 @@
+_repo: The-Lucky-Seventh_39923
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rockwell, Norman
+    aliases:
+    - Rockwell, Norman Percevel
+    - Rockwell, Norman P.
+    birthdate: 1894
+    deathdate: 1978
+    gutenberg_agent_id: '33979'
+    url: http://www.gutenberg.org/2009/agents/33979
+    wikipedia: http://en.wikipedia.org/wiki/Norman_Rockwell
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: ''
+gutenberg_issued: '2012-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'Baseball -- Juvenile fiction'
+title: The Lucky Seventh
+url: http://www.gutenberg.org/ebooks/39923
